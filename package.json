@@ -4,9 +4,6 @@
   "description": "atob and btoa for browsers or node",
   "main": "index.js",
   "browser": "browser.js",
-  "dependencies": {
-    "canvas": "^1.2.3"
-  },
   "devDependencies": {
     "chai": "^2.3.0",
     "grunt": "^0.4.5",
