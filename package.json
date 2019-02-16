@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "atob and btoa for browsers or node",
   "main": "index.js",
+  "types": "index.d.ts",
   "browser": "browser.js",
   "devDependencies": {
     "chai": "^2.3.0",
