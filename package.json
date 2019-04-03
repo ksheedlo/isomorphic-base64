@@ -1,6 +1,6 @@
 {
   "name": "isomorphic-base64",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "atob and btoa for browsers or node",
   "main": "index.js",
   "browser": "browser.js",
